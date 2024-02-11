@@ -36,4 +36,4 @@ Rent.showRent();
 
 console.log('test_branch_changes');
 
-console.log('testing pull request')
+console.log('testing pull request');
