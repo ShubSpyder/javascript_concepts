@@ -34,4 +34,6 @@ Rent.increaseRent(1000);
 Rent.decreaseRent(500);
 Rent.showRent();
 
-console.log('test_branch_changes')
+console.log('test_branch_changes');
+
+console.log('testing pull request');
